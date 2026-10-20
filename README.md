@@ -2,7 +2,7 @@
 
 > The trick from my reel — how to unlock Kiro's paid plans (Pro, Pro+, Pro Max & Power) for **₹0**, every month.
 
-**🔗 Live page:** _link added after GitHub Pages is enabled_
+**🔗 Live page:** https://putlatheophila.github.io/kiro-free-guide/
 
 Follow me for more free tech tips & tricks → **[@theo.putla](https://instagram.com/theo.putla)** 📸
 
